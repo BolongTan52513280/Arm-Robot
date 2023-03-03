@@ -1,0 +1,36 @@
+Mass properties of arm
+     Configuration: Default
+     Coordinate system: Coordinate System1
+
+Density = 0.01 grams per cubic millimeter
+
+Mass = 8150.16 grams
+
+Volume = 1116459.93 cubic millimeters
+
+Surface area = 396342.34  square millimeters
+
+Center of mass: ( millimeters )
+	X = 175.56
+	Y = 0.06
+	Z = 42.69
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 1.00,  0.00,  0.00)   	Px = 21886025.21
+	 Iy = ( 0.00, -1.00,  0.00)   	Py = 162238370.43
+	 Iz = ( 0.00,  0.00, -1.00)   	Pz = 171943561.06
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 21886088.34	Lxy = 72522.86	Lxz = 62047.99
+	Lyx = 72522.86	Lyy = 162238337.32	Lyz = -6479.15
+	Lzx = 62047.99	Lzy = -6479.15	Lzz = 171943531.04
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 36739019.51	Ixy = 155612.89		Ixz = 61143871.95
+	Iyx = 155612.89		Iyy = 428287188.74	Iyz = 13725.36
+	Izx = 61143871.95	Izy = 13725.36		Izz = 423139506.25
+
+{{36739019.51,155612.89,61143871.95},{155612.89,428287188.74,13725.36},{61143871.95,13725.36,423139506.25}}

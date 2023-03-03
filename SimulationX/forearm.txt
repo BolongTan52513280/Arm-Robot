@@ -1,0 +1,37 @@
+Mass properties of forearm
+     Configuration: Default
+     Coordinate system: Coordinate System1
+
+Density = 0.01 grams per cubic millimeter
+
+Mass = 1835.61 grams
+
+Volume = 251454.02 cubic millimeters
+
+Surface area = 128892.54  square millimeters
+
+Center of mass: ( millimeters )
+	X = 122.71
+	Y = 0.00
+	Z = -10.36
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = (-1.00,  0.00,  0.01)   	Px = 2704336.29
+	 Iy = ( 0.00, -1.00,  0.00)   	Py = 20119628.18
+	 Iz = ( 0.01,  0.00,  1.00)   	Pz = 22073671.05
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 2706939.02	Lxy = 0.00	Lxz = -224513.59
+	Lyx = 0.00	Lyy = 20119628.18	Lyz = 0.00
+	Lzx = -224513.59	Lzy = 0.00	Lzz = 22071068.32
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+Ixx = 2903788.17	Ixy = 0.00	Ixz = -2557078.81
+Iyx = 0.00	Iyy = 47956222.87	Iyz = 0.00
+Izx = -2557078.81	Izy = 0.00	Izz = 49710813.85
+
+
+{{2903788.17,0,-2557078.81},{0,47956222.87,0},{-2557078.81,0,49710813.85}}
